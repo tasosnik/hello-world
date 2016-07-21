@@ -8,3 +8,5 @@ Updated 07/21/2016.
 I am trying to learn GitHub and use it to organize my personal projects.
 
 This is the first change.
+
+This is the second change.
